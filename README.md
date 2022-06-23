@@ -1,1 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zvitorzin&show_icons=true&theme=dark)
+![Joao Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=zvitorzin&show_icons=true&theme=dark)>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zvitorzin&layout=compact)](https://github.com/zvitorzin/github-readme-stats)
